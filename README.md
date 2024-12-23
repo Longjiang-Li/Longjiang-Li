@@ -8,3 +8,6 @@
 Longjiang-Li/Longjiang-Li is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+main_LLJ is to start the project.
+ACC_LLJ contains some functions for calculation of some scores, such as accuracy, true statistics skill, false alarm rate, possibility of detection and so on.
+Funs_LLJ 
